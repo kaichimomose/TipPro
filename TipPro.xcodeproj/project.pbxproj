@@ -264,7 +264,7 @@
 				DEVELOPMENT_TEAM = CGUE68EN3T;
 				INFOPLIST_FILE = TipPro/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.makeschool.TipPro;
+				PRODUCT_BUNDLE_IDENTIFIER = MOMOSE.KAICHI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -277,7 +277,7 @@
 				DEVELOPMENT_TEAM = CGUE68EN3T;
 				INFOPLIST_FILE = TipPro/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.makeschool.TipPro;
+				PRODUCT_BUNDLE_IDENTIFIER = MOMOSE.KAICHI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
